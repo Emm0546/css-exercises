@@ -1,1 +1,24 @@
+/* 1. Class selector for ALL odd numbers (1, 3, 5) */
+.odd-style {
+  background-color: #ffccd5; /* Soft light pink/red HEX code */
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* 2. ID selector for the second element */
+#element-two {
+  color: #00296b; /* Solid blue HEX code */
+  font-size: 36px;
+}
+
+/* 3. Class selector for the extra cool style on element 3 */
+.cool-style {
+  font-size: 24px;
+}
+
+/* 4. ID selector for the fourth element */
+#element-four {
+  background-color: #d8f3dc; /* Light green HEX code */
+  font-size: 24px;
+  font-weight: bold;
+}
 /* Add CSS Styling */

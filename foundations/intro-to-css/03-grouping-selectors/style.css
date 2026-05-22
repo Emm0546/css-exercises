@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.love {
+  background-color: black;
+  color: white;
+}
+.sublime {
+  background-color: yellow;
+}
+.love,
+.sublime {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}

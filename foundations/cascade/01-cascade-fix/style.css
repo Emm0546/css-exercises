@@ -36,6 +36,6 @@ div.text {
 
 /* FIX: Explicitly target the child size so it doesn't stay too large! */
 div.text.child {
-  font-size: 14px; /* Shrinks it down to match the layout image */
+  font-size: 14px; /* Shrinks it down to match the layout image or desired-outcome.png */
   font-weight: 800; /* Keeps it extra bold as requested */
 }
